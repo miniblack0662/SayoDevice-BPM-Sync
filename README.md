@@ -1,16 +1,21 @@
 # Features:
 
 ### ​Real-time BPM Synchronization
-​Visualizes your tapping speed with RGB lighting
----
+
+- ​Visualizes your tapping speed with RGB lighting
+
+
 ### ​Dynamic Key Binding
-​Customize which keys to monitor (Key 1, 2, 3)
+
+- ​Customize which keys to monitor (Key 1, 2, 3)
 ​Works with any keyboard input
 (it monitors global system input rather than direct HID reports from the SayoDevice hardware)
----
+
+
 ### ​Color Picker
-Select your own start (idle) and end (peak) colors via a native color dialog
----
+
+- Select your own start (idle) and end (peak) colors via a native color dialog
+
 
 # Setup
 
