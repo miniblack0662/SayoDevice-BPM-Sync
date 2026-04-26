@@ -18,7 +18,7 @@
 
 ### 1. Clone this repository
 ```
-git clone https://github.com/miniblack0662/SayoDevice-O3C-BPM-Sync
+git clone https://github.com/miniblack0662/SayoDevice-BPM-Sync
 ```
 ### 2. Install dependencies
 ```
@@ -38,7 +38,7 @@ pip install .
 
 # Usage:
 ```
-cd path/to/SayoDevice-O3C-BPM-Sync
+cd path/to/SayoDevice-BPM-Sync
 
 python app.py
 ```
