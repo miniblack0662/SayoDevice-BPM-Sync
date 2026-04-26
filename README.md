@@ -14,7 +14,7 @@
 - Select your own start (idle) and end (peak) colors via a native color dialog
 
 
-# Setup
+# Setup:
 
 ### 1. Clone this repository
 ```
@@ -45,3 +45,7 @@ python app.py
 
 > [!IMPORTANT]
 > If you have the SayoDevice Web Configurator (Official Website) or other third-party sync software open in your browser or background, this program will likely fail
+
+
+# Showcase
+[![YouTube](https://github.com/miniblack0662/SayoDevice-BPM-Sync/blob/main/images/thumbnail.jpg)](https://youtu.be/q6A8Z27x5aI?si=ZLEUqJu5vPDpDXdG)
