@@ -49,4 +49,7 @@ python app.py
 
 # Showcase
 [![YouTube](https://github.com/miniblack0662/SayoDevice-BPM-Sync/blob/main/images/thumbnail.jpg)](https://youtu.be/q6A8Z27x5aI?si=ZLEUqJu5vPDpDXdG)
-[!image](https://github.com/miniblack0662/SayoDevice-BPM-Sync/blob/main/images/gui.png)
+
+<p align="center">
+  <img src="https://github.com/miniblack0662/SayoDevice-BPM-Sync/blob/main/images/gui.png" width="100%" controls></img>
+</p>
