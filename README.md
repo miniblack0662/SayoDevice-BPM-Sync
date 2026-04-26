@@ -42,3 +42,6 @@ cd path/to/SayoDevice-O3C-BPM-Sync
 
 python app.py
 ```
+
+> [!IMPORTANT]
+> If you have the SayoDevice Web Configurator (Official Website) or other third-party sync software open in your browser or background, this program will likely fail
